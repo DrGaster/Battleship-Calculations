@@ -1,0 +1,38 @@
+[
+    {
+        "name": "aGameObject",
+        "height": 3,
+        "width": 1,
+        "position": [0, 0]
+    },
+    {
+        "name": "bGameObject",
+        "height": 4,
+        "width": 1,
+        "position": [0, 0]
+    },
+    {
+        "name": "cGameObject",
+        "height": 4,
+        "width": 1,
+        "position": [0, 0]
+    },
+    {
+        "name": "dGameObject",
+        "height": 5,
+        "width": 1,
+        "position": [0, 0]
+    },
+    {
+        "name": "eGameObject",
+        "height": 5,
+        "width": 2,
+        "position": [0, 0]
+    },
+    {
+        "name": "fGameObject",
+        "height": 6,
+        "width": 1,
+        "position": [0, 0]
+    }
+]
