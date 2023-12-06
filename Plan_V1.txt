@@ -1,0 +1,69 @@
+Certainly! Here's a compiled summary of the details for the program:
+
+**Program Overview:**
+- **Purpose:**
+    The program manages an array of locations with rectangular objects,
+    calculates the probability of each square being occupied by an object,
+    and provides a user interface for command input and array updates.
+
+**Key Features and Functionalities:**
+
+1. **Probability Calculation:**
+   - Check for complete overlap by an object with another instance of itself.
+   - Consider partial overlaps as valid during the validation process.
+
+2. **Object Management (GameObjects):**
+   - Create and update object properties in a settings menu.
+   - Incorporate additional attributes as necessary for enhanced functionality.
+   - Implement methods for validating and checking the integrity of data.
+
+3. **Shutdown Sequence:**
+   - Implement a proper shutdown sequence.
+   - Verify data integrity and any other details deemed necessary during shutdown.
+
+4. **User Interface (UI):**
+   - Display a main window showing the total weighted probability array.
+   - Include a pop-up window with information about the weighted arrays for each object's calculation.
+   - Provide drag-and-drop capability for designating an object as complete.
+   - Include a progress bar for user feedback and notifications for error alerts.
+
+5. **File Storage and Initialization:**
+   - Upon startup, check for the presence of file(s).
+   - If file(s) are present, check integrity and validity.
+   - If file(s) are not present, create file(s).
+
+6. **Error Handling:**
+   - Consider implementing a containerized program to catch and handle errors.
+   - Prioritize preventing crashes and/or corruption of the program and files.
+
+7. **Additional Considerations:**
+   - Provide methods for creating and updating object properties in a settings menu.
+   - Include additional attributes as deemed necessary for enhanced functionality.
+   - Consider any specific details or requirements for the settings menu.
+
+Feel free to review the details, and if there are any specific aspects you'd like to address or modify, please let me know.
+
+
+
+
+
+
+
+
+
+
+Given the requirements and features outlined for the program, Python, with the Tkinter library for the GUI, seems to be a suitable choice. Here's why:
+
+1. **Python:**
+   - **Readability:** Python is known for its readability and simplicity, making it easier to write, understand, and maintain code.
+   - **Libraries:** It has a rich set of libraries, which can be beneficial for various functionalities and file operations.
+   - **Cross-Platform:** Python is cross-platform, meaning the program can run on Windows without modification.
+
+2. **Tkinter (GUI Toolkit for Python):**
+   - **Ease of Use:** Tkinter is included with most Python installations and provides a simple way to create GUI applications.
+   - **Documentation:** It has extensive documentation, making it beginner-friendly and well-supported.
+   - **Versatility:** Tkinter is well-suited for creating basic to moderately complex GUIs.
+
+Considering the balance between language potential, readability, and simplicity, Python with Tkinter appears to be a pragmatic choice for this project.
+However, it's important to note that there are other GUI libraries for Python (such as PyQt or Kivy) and other programming languages that could also be suitable,
+depending on your preferences and requirements. If you have a specific preference or want to explore alternatives, feel free to let me know!
